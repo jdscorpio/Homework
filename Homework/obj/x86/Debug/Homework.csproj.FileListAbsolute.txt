@@ -7,6 +7,7 @@ C:\Users\JD\Documents\Visual Studio 2010\Projects\WindowsFormsApplication8\Windo
 C:\Users\JD\Documents\Visual Studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\HomeWork.Form1.resources
 C:\Users\JD\Documents\Visual Studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\Homework.Properties.Resources.resources
 C:\Users\JD\Documents\Visual Studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\Homework.csproj.GenerateResource.Cache
-f:\Homework\Homework\bin\Debug\Location.exe.config
-f:\Homework\Homework\obj\x86\Debug\Location.exe
-f:\Homework\Homework\obj\x86\Debug\Location.pdb
+C:\Users\JD\Documents\Visual Studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\Homework.csprojResolveAssemblyReference.cache
+f:\h\Homework\Homework\bin\Debug\Location.exe.config
+f:\h\Homework\Homework\obj\x86\Debug\Location.exe
+f:\h\Homework\Homework\obj\x86\Debug\Location.pdb
