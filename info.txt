@@ -1,0 +1,22 @@
+Są dane współrzędne 6 punktów A, B, C, D, E i F dla 100 różnych
+przypadków. Każda para współrzędnych (x, y - liczby całkowite,
+z zakresu -1000..1000, oddzielone od siebie tabulatorem) jest
+zapisana w oddzielnym wierszu odpowiedniego pliku tekstowego
+- w załączeniu.
+
+Napisz programy, które dadzą odpowiedź na poniższe pytania
+
+1. POŁOŻENIE
+------------
+Dla ilu ze 100 zestawów punktów, wszystkie 6 punktów znajduje się powyżej osi OX.
+
+2. TRÓJKĄT
+----------
+Dla ilu ze 100 zestawów punktów, odcinki które tworzą: AB, CD i EF
+mają taką długość, że można zbudować z nich trójkąt.
+
+3. ODCINEK
+-----------
+Podzielmy całkowicie każdą liczbę z załączonych plików / 100.
+Jeśli mamy odcinek o współrzędnych końców (0,0) i (5,5),
+to ile z punktów A, B, C, D, E, F do niego należy?
